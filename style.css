@@ -1,0 +1,206 @@
+body
+{
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid rgb(14, 167, 167);
+    max-width: 1280 px;
+}
+
+.global-padding
+{
+    padding: 10px 80px;
+}
+
+.logo img
+{
+    width: 150px;
+    height: 150px;
+}
+
+#title1
+{
+    font-size: 50px;;
+    font-family: serif;
+    color: rgb(10, 80, 80);
+    padding-top: 35px;
+
+}
+#title2
+{
+    font-size: 80px;
+    font-family: fantasy;
+    color: brown;
+}
+.logo
+{
+    display: flex;
+    
+}
+header
+{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 450px;
+}
+.cover img
+{
+    border-radius: 50px;
+    height: 350px;
+    width: 650px;
+}
+.information
+{
+    display: flex;
+    margin: 10px;
+}
+
+.MANALI
+{
+    display: flex;
+    justify-content: space-between;
+}
+
+.infoTitle h2
+{
+    font-size: 50px;;
+    font-family: serif;
+    color: rgb(10, 80, 80);
+    background-color: bisque;
+}
+.info
+{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: rgb(221, 229, 240);
+    border-radius: 20px;
+    padding: 10px;
+    text-align: justify;
+}
+#icon
+{
+    height: 70px;
+    width: 65px;
+    padding: 5px;
+}
+.btn
+{
+    background-color: rgb(177, 201, 201);
+}
+.btn:hover
+{
+    color: brown;
+}
+.boughtTitle
+{
+    font-size: 25px;
+    text-align: center;
+    font-family: serif;
+    color: rgb(10, 80, 80);
+    background-color: bisque;
+}
+.boughtProduct ul
+{
+    display: flex;
+}
+.boughtProduct ul li
+{
+    font-size: 25px;
+    color: rgb(29, 27, 39);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.boughtProduct ul li img
+{
+    height: 250px;
+    width: 250px;
+    border-radius: 20px;
+}
+.favFood h2
+{
+    font-family: serif;
+    font-size: 25px;
+    color: rgb(3, 29, 29);
+    background-color:bisque;
+    margin-left: 140px;
+    
+}
+.favFood img
+{
+    height: 250px;
+    width: 250px;
+    border-radius: 20px;
+    margin-left: 150px;
+}
+.favFood h4
+{
+    font-family: serif;
+    margin-left: 200px;
+
+}
+.food
+{
+    display: flex;
+    justify-content: space-between;
+    padding: 50px 150px;
+    background-color: azure;
+}
+
+.WhatIEat h2
+{
+    font-family: serif;
+    font-size: 25px;
+    color: rgb(3, 29, 29);
+    background-color:bisque;
+    margin-left: 20px;
+}
+
+.WhatIEat h4
+{
+    font-family: serif;
+    font-style: italic;
+    /* margin-left: 10px; */
+    text-align: center;
+}
+.Item1and2
+{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.Item1and2 img
+{
+    height: 170px;
+    width: 190px;
+    padding: 10px;
+}
+.Item3and4
+{
+    display: flex;
+    justify-content: space-between;
+}
+.Item3and4 img{
+    height: 170px;
+    width: 190px;
+    padding: 10px;
+}
+.music h2
+{
+    font-size: 25px;;
+    font-family: serif;
+    color: rgb(10, 80, 80);
+    background-color: bisque;
+}
+.music img
+{
+    margin-left: 400px;
+}
+footer
+{
+    background-color: rgb(51, 49, 49);
+    height: 100px;
+}
+footer h4
+{
+    color: white;
+    text-align: center;
+    font-family: serif;
+    padding-top: 50px;
+}
